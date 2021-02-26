@@ -14,7 +14,25 @@ p, li, textarea, label, input, select {
 }
 
 
+.header-title {
+margin : 8px 0;
+Padding : 15px 
+background-color: #fF6B00BD;
+color : #ffffff;
+text-align : center;
+font-weight :900; 
+line-height : 1;
+}
 
+.header-subtitle {
+  margin : 8px 0;
+  Padding : 15px 
+  background-color: #aff7b80BD;
+  color : #fffffff;
+  text-align : center;
+  font-weight :900; 
+  line-height : 1;
+  }
 h1 {
    /* Default font, size, and margins */
 }
